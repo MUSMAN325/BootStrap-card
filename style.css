@@ -1,0 +1,33 @@
+
+.design{
+   
+    background-color: rgba(245, 245, 245, 0.925);
+    color: white;
+    width: 200px;
+    height: 200px;
+  
+    padding: 50px;
+    margin-top: 20px;
+    
+}
+
+  
+    /* display: inline-block; */
+
+    
+
+/* .container{
+    display: flex;
+    justify-content: space-around;
+} */
+#btn{
+    background-color: rosybrown;
+    color: white;
+}
+
+
+/* @media screen and (max-width: 300px) {
+    .design{
+        width: 100%;
+    }
+  } */
